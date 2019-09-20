@@ -1,2 +1,2 @@
 # chat-program
-A simple C++ chart program using pthreads.
+A simple chart program using C (pthreads).
